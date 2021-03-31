@@ -1,0 +1,7 @@
+*
+!.gitignore
+!Dockerfile
+
+!api.default.conf.sample
+!default.conf.sample
+!resources.default.conf.sample
